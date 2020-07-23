@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tic Tac Toe should render correctly compared to the snapshot 1`] = `ShallowWrapper {}`;

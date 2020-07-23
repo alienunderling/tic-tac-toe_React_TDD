@@ -1,0 +1,9 @@
+.tictactoe-container {
+}
+
+.status {
+}
+
+.tictactoe-info {
+  margin-left: var(--tictactoe-margin-left);
+}
